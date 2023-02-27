@@ -7,6 +7,7 @@
   "api": {
     "baseUrl": "https://app.fabra.io"
   },
+  "openapi": "https://fabra-io.github.io/openapi/fabra.yaml",
   "versions": ["v1.0"],
   "favicon": "/favicon.png",
   "colors": {
